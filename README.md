@@ -32,3 +32,19 @@
 
 ## Инструкции по установке:
 1. Скачайте датасет archive.zip([archive.zip](https://github.com/meeFp/Laba3/blob/main/archive.zip))
+2. Установите необходимые библиотеки, подключитесь к вашему GoggleDisk'у,выполнив следующие команды:
+   ```python
+    from google.colab import drive
+    drive.mount('/content/drive')
+
+    !unzip "/content/drive/MyDrive/archive.zip"
+   ```
+
+   ```python
+    import pandas as pd
+    import plotly.express as px
+    import plotly.io as pio
+    import plotly.graph_objects as go
+    pio.templates.default = "plotly_white"
+   ```
+   
