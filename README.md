@@ -82,3 +82,21 @@
 <a target="_blank" href="https://colab.research.google.com/github/meeFp/Laba3/blob/main/laba3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Результаты анализа:
+1. Цена продукта и его тип:
+   ![image](https://github.com/meeFp/Laba3/assets/119287468/c15734a8-a28e-494a-a1a2-fabb1ade2f29)
+   - Компания получает больший доход от продуктов по уходу за кожей, и чем выше цена на продукты по уходу за кожей, тем больший доход они приносят
+2. Продажи по типам продукта:
+   ![image](https://github.com/meeFp/Laba3/assets/119287468/8c0710fa-122f-486c-a6b6-ef8905ef4df8)
+   -Таким образом, из диаграммы видно, что 45% бизнеса приходится на продукцию по уходу за кожей, 29,5% — на уход за волосами и 25,5% — на косметику.
+3. Общий доход по курьерам(перевозчикам):
+   ![image](https://github.com/meeFp/Laba3/assets/119287468/017a316b-6937-4f82-8f1e-3961c2aefea6)
+   - Компания использует трех курьеров,и курьер B приносит компании больший доход
+4 . .... другие результаты анализа <a target="_blank" href="https://colab.research.google.com/github/meeFp/Laba3/blob/main/laba3.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+
+
