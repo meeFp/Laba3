@@ -23,7 +23,7 @@
 
 4. Prescriptive Analytics продвигает прогнозную аналитику на шаг вперед, предоставляя рекомендации по оптимизации операций цепочки поставок. Используя алгоритмы оптимизации и моделирование, предписывающая аналитика может помочь организациям определить лучший курс действий для повышения эффективности цепочки поставок. Это может помочь организациям принимать более обоснованные решения и повысить общую эффективность цепочки поставок.
 
-## Используемые библиотеки
+## Используемые библиотеки:
 
 - pandas
 - plotly.express
@@ -47,4 +47,30 @@
     import plotly.graph_objects as go
     pio.templates.default = "plotly_white"
    ```
-   
+## Наборы данных:
+   - Вот набор данных, который мы собрали из стартапа в области моды и красоты. Набор данных основан на цепочке поставок косметической продукции. Ниже приведены все функции в наборе данных.:
+
+    - Product Type
+    - SKU
+    - Price
+    - Availability
+    - Number of products sold
+    - Revenue generated
+    - Customer demographics
+    - Stock levels
+    - Lead times
+    - Order quantities
+    - Shipping times
+    - Shipping carriers
+    - Shipping costs
+    - Supplier name
+    - Location
+    - Lead time
+    - Production volumes
+    - Manufacturing lead time
+    - Manufacturing costs
+    - Inspection results
+    - Defect rates
+    - Transportation modes
+    - Routes
+    - Costs
